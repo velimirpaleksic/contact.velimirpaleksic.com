@@ -1,6 +1,7 @@
 {
-  "name": "Direct Contact",
-  "short_name": "Contact",
+  "name": "Contact Velimir Paleksić",
+  "short_name": "VP Contact",
+  "description": "Start a thumbnail, graphic design, or website project with Velimir Paleksić.",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
@@ -16,5 +17,6 @@
   "theme_color": "#0B0B0B",
   "background_color": "#0B0B0B",
   "display": "standalone",
+  "scope": "/",
   "start_url": "/"
 }

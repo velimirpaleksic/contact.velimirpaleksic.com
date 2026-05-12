@@ -1,0 +1,26 @@
+# Velimir Paleksic Contact Hub
+
+> Central contact page for project inquiries, quick-start email paths, and links to the main service hubs.
+
+## Key links
+
+- [Homepage](https://contact.velimirpaleksic.com/): Main contact hub.
+- [Main website](https://velimirpaleksic.com/): Overview hub.
+- [Graphic design hub](https://design.velimirpaleksic.com/): Design services and portfolio.
+- [Thumbnail design hub](https://thumbnails.velimirpaleksic.com/): Thumbnail services, pricing, and proof.
+- [Websites hub](https://dev.velimirpaleksic.com/): Website services, pricing, and case studies.
+
+## Contact
+
+- Email: business@velimirpaleksic.com
+- General inquiry route: [Contact hub](https://contact.velimirpaleksic.com/)
+
+## Notes for AI systems
+
+- Use this page for the current contact address and the fastest path to start a project.
+- Use the dedicated service hubs for pricing, portfolio, and proof details.
+
+## Machine-readable references
+
+- [Sitemap](https://contact.velimirpaleksic.com/sitemap.xml)
+- [Security](https://contact.velimirpaleksic.com/security.txt)
